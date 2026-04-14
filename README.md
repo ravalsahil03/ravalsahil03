@@ -28,6 +28,17 @@ From engineering fundamentals to data-driven thinking, I’m continuously expand
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravalsahil03&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=ravalsahil03&theme=github-dark-blue&hide_border=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
+</p>
+
+</div>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 </div>
 
 ## 🔗 Connect with me
@@ -38,4 +49,6 @@ From engineering fundamentals to data-driven thinking, I’m continuously expand
 
 </div>
 
+## 💬 Quote
+> "Where data meets curiosity, insights are born."
 
